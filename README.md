@@ -5,6 +5,7 @@ Changes made to rose pattern design, attempted to make sliders that change size 
 ![Rose Petal](image.png)
 
 //declaring variables
+
 //sliderZ is an attempt to make a slider that changes the size of the pattern (not working)
 let d = 8, n = 5, z = 2, sliderD, sliderN, sliderZ, SliderR, SliderG, SliderB;
 function setup() {
